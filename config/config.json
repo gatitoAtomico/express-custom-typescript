@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "george",
+    "password": "Test1234.",
+    "database": "bds-app",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "george",
+    "password": "Test1234.",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "george",
+    "password": "Test1234.",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
